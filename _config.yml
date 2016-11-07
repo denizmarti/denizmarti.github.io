@@ -8,7 +8,7 @@ url:
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
   name: Deniz Marti
-  avatar: bio-photo.jpg
+  avatar: p.jpg
   bio: "A brief description of yourself."
   email: hazanmarti@gwu.edu
   disqus-shortname:
